@@ -1,0 +1,54 @@
+﻿Построение начато 16.02.2013 16:22:54.
+     1>Проект "C:\Users\VetaL\Desktop\vLauncherRELOADED\vLauncherRELOADED\vLauncherRELOADED.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\vLauncherRELOADED.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\vLauncherRELOADED.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.Compatibility.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /FU"C:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\stdole.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Design.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt vLauncherRELOADED.cpp /clr:nostdlib 
+         vLauncherRELOADED.cpp
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\SettingsSaver.h(107): warning C4101: FE: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form2.h(170): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form2.h(181): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(48): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1578): warning C4101: WE: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1594): warning C4101: EX: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1606): warning C4101: EX: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1648): warning C4947: System::Net::Dns::Resolve: помечен как устаревший
+                 Сообщение: "Resolve is obsoleted for this type, please use GetHostEntry instead. http://go.microsoft.com/fwlink/?linkid=14202"
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1665): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1669): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1705): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1735): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1765): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1810): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(1861): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(2065): warning C4101: WE: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(2066): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(2168): warning C4101: E: неиспользованная локальная переменная
+     1>c:\users\vetal\desktop\vlauncherreloaded\vlauncherreloaded\Form1.h(2179): warning C4101: E: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         "C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.Compatibility.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\Microsoft.VisualBasic.dll" /r:"C:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Common\stdole.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Design.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Web.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Form1.resX,Debug\vLauncherRELOADED.Form1.resources
+         Обрабатывается файл ресурсов "Form1.resX", результирующий объект: "Debug\vLauncherRELOADED.Form1.resources".
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\VetaL\Desktop\vLauncherRELOADED\Debug\vLauncherRELOADED.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\vLauncherRELOADED.Form1.resources /ASSEMBLYRESOURCE:Debug\vLauncherRELOADED.Form2.resources /MANIFEST /ManifestFile:"Debug\vLauncherRELOADED.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\VetaL\Desktop\vLauncherRELOADED\Debug\vLauncherRELOADED.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Form2.obj
+         Debug\stdafx.obj
+         Debug\vLauncherRELOADED.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         vLauncherRELOADED.vcxproj -> C:\Users\VetaL\Desktop\vLauncherRELOADED\Debug\vLauncherRELOADED.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\VetaL\Desktop\vLauncherRELOADED\Debug\vLauncherRELOADED.exe;#1" /manifest Debug\vLauncherRELOADED.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\vLauncherRELOADED.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\vLauncherRELOADED.lastbuildstate".
+     1>Построение проекта "C:\Users\VetaL\Desktop\vLauncherRELOADED\vLauncherRELOADED\vLauncherRELOADED.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.16
